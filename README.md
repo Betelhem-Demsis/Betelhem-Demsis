@@ -1,8 +1,5 @@
-## Hello👋 
-
-
-###  About Me: 
-### i am Betelhem Demsis.   i'm software engineering major , MERN stack and Django Developer
+## Hello👋  
+#### 🌟 i am Betelhem Demsis.   i'm software engineering major , MERN stack and Django Developer
 
 <br>
 
