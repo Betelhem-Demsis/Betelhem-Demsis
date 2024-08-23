@@ -5,7 +5,7 @@
 
 ## Technologies I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,tailwind,react,nodejs,express,django,firebase,mysql,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,django,mysql,mongodb,postgres)](https://skillicons.dev)
 
 
 
