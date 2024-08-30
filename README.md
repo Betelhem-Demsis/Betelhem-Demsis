@@ -38,9 +38,6 @@
     </td>
      <td align="center">
       <img alt="Bootstrap" height=64px src="https://skillicons.dev/icons?i=bootstrap">
-      <td align="center">
-       <img alt="Next js" height=64px src= "https://skillicons.dev/icons?i=nextjs">
-     </td>
      </td>
      <td>
      <img alt="django" height=64px src="https://skillicons.dev/icons?i=django">
@@ -48,26 +45,38 @@
     <td>
      <img alt="node" height=64px src="https://skillicons.dev/icons?i=nodejs">
     </td>
-   </tr>
-   <tr>
-     <td align="center">
+    <td align="center">
        <img alt="Express" height=64px src="https://skillicons.dev/icons?i=express">
      </td>
+    <td align="center">
+       <img alt="Mongo Db" height=64px src="https://skillicons.dev/icons?i=mongodb">
+     </td> 
+   </tr>
+   <tr>
       <td align="center">
        <img alt="Firebase" height=64px src="https://skillicons.dev/icons?i=firebase">
      </td>  
-        <td align="center">
-       <img alt="Mongo Db" height=64px src="https://skillicons.dev/icons?i=mongodb">
-     </td> 
     <td align="center">
        <img alt="my-sql" height=64px src="https://skillicons.dev/icons?i=mysql">
      </td> 
      <td align="center">
        <img alt="Posql" height=64px src="https://skillicons.dev/icons?i=postgres">
      </td>  
-       <td align="center">
-       <img alt="GraphQL" height=64px src="https://skillicons.dev/icons?i=graphql">
+    <td align="center">
+       <img alt=" sqlite" height=64px src="https://skillicons.dev/icons?i=sqlite">
+     </td> 
+     <td align="center">
+       <img alt="vscode" height=64px src="https://skillicons.dev/icons?i=vscode">
      </td>  
+    <td align="center">
+       <img alt="postman" height=64px src="https://skillicons.dev/icons?i=postman">
+     </td> 
+    <td align="center">
+       <img alt="git" height=64px src="https://skillicons.dev/icons?i=git">
+     </td>
+     <td align="center">
+       <img alt="vite" height=64px src="https://skillicons.dev/icons?i=vite">
+     </td>
    </tr>
 
  </table>
