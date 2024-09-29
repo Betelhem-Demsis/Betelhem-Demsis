@@ -1,13 +1,6 @@
 ## Hello👋 
 <p>🌟 I'm Betelhem Demsis. i'm software engineering student and Full Stack Developer </p> 
 
-## What I do:
-- **Full Stack Web Development using**:
-  
-  - MERN Stack (MongoDB, Express, React, Node.js)
-  - Next.js for advanced React features like server-side rendering and static site generation
-  - Django & Django REST Framework for back-end development
-       
 ## Technologies I work with: 
 
 <h4> programming languages</h4>
