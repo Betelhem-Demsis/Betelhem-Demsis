@@ -8,9 +8,6 @@
 ### :fire: My Stats :
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Betelhem-Demsis&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Betelhem-Demsis&theme=dark&hide_border=true)](https://git.io/streak-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Betelhem-Demsis&layout=compact&theme=dark&hide_border=true&hide=html,css)
 
 
-![Betelhem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Betelhem-Demsis&show_icons=true&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Betelhem-Demsis&layout=compact&theme=dark&hide_border=true&hide=html,css)
-
----
