@@ -1,15 +1,16 @@
 ## Hello👋 
 <p>🌟 I'm Betelhem Demsis. i'm software engineering student and Full Stack Developer </p> 
 
-## Technologies I work with: 
+## Technologies and Tools:                           
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,redux,nextjs,materialui,tailwind,bootstrap,django,nodejs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=express,firebase,mongodb,mysql,postgres,jquery,vscode,postman,vite,git,bash)](https://skillicons.dev)
 
-<h4> programming languages</h4>
+### :fire: My Stats :
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
 
-<h4> Frameworks && tools </h4
-                          
- [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,materialui,tailwind,bootstrap,django,nodejs,express,firebase,mongodb,mysql,postgres)](https://skillicons.dev)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Betelhem-Demsis&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
-[![My Skills](https://skillicons.dev/icons?i=jquery,vscode,postman,vite,git,bash)](https://skillicons.dev)
 
+![Betelhem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Betelhem-Demsis&show_icons=true&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Betelhem-Demsis&layout=compact&theme=dark&hide_border=true&hide=html,css)
+
+---
