@@ -1,9 +1,6 @@
-## Hello👋 
-<p>🌟 I'm Betelhem Demsis. i'm software engineering student and Full Stack Developer </p> 
-
-## Technologies and Tools:                           
- [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,redux,nextjs,materialui,tailwind,bootstrap,django,nodejs)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=express,firebase,mongodb,mysql,postgres,jquery,vscode,postman,vite,git,bash)](https://skillicons.dev)
+### ☕ Technologies and Tools:                           
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,py,ruby,react,redux,nextjs,django,nodejs,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=express,rails,docker,kubernetes,jenkins,mongodb,mysql,postgres,jquery)](https://skillicons.dev)
 
 ### :fire: My Stats :
 
